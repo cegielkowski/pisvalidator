@@ -20,7 +20,7 @@ You need to import the *package* `github.com/Cegielkowski/pisvalidator` like tha
 
 ```go
 import (
-    "github.com/Cegielkowski/pisvalidator"
+    pisvalidator "github.com/Cegielkowski/pisvalidator"
 )
 ```
 

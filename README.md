@@ -31,7 +31,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Cegielkowski/pisvalidator"
+	pisvalidator "github.com/Cegielkowski/pisvalidator"
 )
 
 func main() {
